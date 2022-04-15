@@ -1,0 +1,357 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: C9 Admin Dashboard\n"
+"POT-Creation-Date: 2020-08-27 08:58-0400\n"
+"PO-Revision-Date: 2020-08-27 08:58-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: c9-admin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-c9-admin.php:91
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-c9-admin.php:160
+msgid "Settings"
+msgstr ""
+
+#: admin/class-c9-admin.php:324 admin/class-c9-admin.php:343
+msgid "Comments"
+msgstr ""
+
+#: admin/class-c9-admin.php:332
+msgid "Audit Log"
+msgstr ""
+
+#: admin/class-c9-admin.php:333
+msgid "Search &amp; Filter"
+msgstr ""
+
+#: admin/class-c9-admin.php:334
+msgid "Mega Menu"
+msgstr ""
+
+#: admin/class-c9-admin.php:335
+msgid "Max Mega Menu"
+msgstr ""
+
+#: admin/class-c9-admin.php:339
+msgid "Plugins"
+msgstr ""
+
+#: admin/class-c9-admin.php:614
+msgid "C9 Website Admin Dashboard"
+msgstr ""
+
+#: admin/class-c9-admin.php:646
+msgid "Add or Edit Content"
+msgstr ""
+
+#: admin/class-c9-admin.php:648 admin/class-c9-admin.php:649
+msgid "Add"
+msgstr ""
+
+#: admin/class-c9-admin.php:650
+msgid "Navigation Links"
+msgstr ""
+
+#: admin/class-c9-admin.php:651
+msgid "Footer Content"
+msgstr ""
+
+#: admin/class-c9-admin.php:655
+msgid "Theme Settings + Libraries"
+msgstr ""
+
+#: admin/class-c9-admin.php:657
+msgid "Theme Appearance"
+msgstr ""
+
+#: admin/class-c9-admin.php:658
+msgid "C9 Admin Settings"
+msgstr ""
+
+#: admin/class-c9-admin.php:659
+msgid "Reusable Blocks"
+msgstr ""
+
+#: admin/class-c9-admin.php:664
+msgid "Using C9 Blocks"
+msgstr ""
+
+#: admin/class-c9-admin.php:666
+msgid "C9 Blocks Overview"
+msgstr ""
+
+#: admin/class-c9-admin.php:667
+msgid "C9 Blocks Getting Started Guide"
+msgstr ""
+
+#: admin/class-c9-admin.php:668
+msgid "Block Videos"
+msgstr ""
+
+#: admin/class-c9-admin.php:668
+msgid "C9 Blocks Walk-through Videos"
+msgstr ""
+
+#: admin/class-c9-admin.php:672
+msgid "Get Support"
+msgstr ""
+
+#: admin/class-c9-admin.php:674
+msgid "C9 Theme + Blocks Docs"
+msgstr ""
+
+#: admin/class-c9-admin.php:675
+msgid "COVERT NINE Account"
+msgstr ""
+
+#: admin/class-c9-admin.php:675
+msgid "C9 Account Dashboard"
+msgstr ""
+
+#: admin/class-c9-admin.php:676
+msgid "Get premium support from COVERT NINE"
+msgstr ""
+
+#: admin/class-c9-admin.php:676
+msgid "C9 Paid Support"
+msgstr ""
+
+#: admin/class-c9-admin.php:677
+msgid "WordPress.org Support"
+msgstr ""
+
+#: admin/class-c9-admin.php:677
+msgid "WP.org Support"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:63
+msgid "C9 WordPress Admin Settings"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:67
+#: admin/partials/c9-admin-display.php:70
+msgid "Disable admin bar on frontend"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:76
+#: admin/partials/c9-admin-display.php:79
+msgid "Disable media attachment pages"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:86
+msgid "Hide default Posts"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:89
+msgid "Hide default posts"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:94
+#: admin/partials/c9-admin-display.php:97
+msgid "Hide developer-specific menu items"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:102
+#: admin/partials/c9-admin-display.php:105
+msgid "Hide SEO settings"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:110
+msgid "Hide Matomo Analytics"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:113
+msgid "Hide Matomo analytics settings"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:118
+#: admin/partials/c9-admin-display.php:121
+msgid "Hide user settings"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:127
+#: admin/partials/c9-admin-display.php:130
+msgid "Make notification visible to admins only"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:135
+#: admin/partials/c9-admin-display.php:138
+msgid "Suppress update notifications"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:142
+#: admin/partials/c9-admin-display.php:145
+msgid "Hide Updates menu item"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:149
+#: admin/partials/c9-admin-display.php:152
+msgid "Hide Comments menu item"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:156
+msgid "Hide Plugin Menu Item"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:159
+msgid "Hide Plugins menu item"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:164
+msgid "Admin Styles + Colors"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:167
+msgid "Custom Skin Admin"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:170
+msgid "Disable custom skin for admin"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:173
+msgid "Admin Sidebar Menu Background Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:175
+msgid "Select Admin Menu Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:183
+msgid "Admin Sidebar Menu Text Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:185
+msgid "Select Admin Menu Text Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:193
+msgid "Admin Login Screen Background Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:195
+msgid "Select Background Color"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:207
+#: admin/partials/c9-admin-display.php:210
+msgid "Custom Menu Labels"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:213
+msgid "Define custom labels"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:217
+#: admin/partials/c9-admin-display.php:220
+msgid "Menu Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:232
+#: admin/partials/c9-admin-display.php:235
+msgid "Pages Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:247
+#: admin/partials/c9-admin-display.php:250
+msgid "Media Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:262
+msgid "Posts Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:274
+msgid "Post Categories Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:286
+msgid "Posts Tags Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:298
+msgid "Upload Files Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:310
+msgid "All Files Label"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:324
+msgid "Admin Image Upload Size Limit"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:327
+msgid "Limit Image Size"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:330
+msgid "Limit image size"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:334
+msgid "Define your local Minimums and Maximums"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:337
+msgid "Max Side Length"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:350
+msgid "Min Side Length"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:363
+msgid "Max File Size"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:382
+msgid "Have a suggestion for Tim + the team?"
+msgstr ""
+
+#: admin/partials/c9-admin-display.php:383
+msgid ""
+"Don't just sit there, post it on our <a href=\"https://www.covertnine.com/"
+"community/\" target=\"_blank\">community forum</a> and we'll respond "
+"personally."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "C9 Admin Dashboard"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.covertnine.com/c9-admin-dashboard-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Essential WordPress admin features for managing client sites including "
+"customization of admin screens, labels, plugin/theme update screen "
+"visibility and more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "COVERT NINE"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.covertnine.com"
+msgstr ""
