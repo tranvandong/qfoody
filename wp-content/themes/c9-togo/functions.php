@@ -112,3 +112,19 @@ function woocommerce_related_text($translated, $text, $domain)
      return $translated;
 }
 
+/**
+ * Rename "home" in breadcrumb
+ */
+add_filter( 'woocommerce_breadcrumb_defaults', 'wcc_change_breadcrumb_home_text' );
+function wcc_change_breadcrumb_home_text( $defaults ) {
+    // Change the breadcrumb home text from 'Home' to 'Apartment'
+	$defaults['home'] = 'Trang chủ';
+	return $defaults;
+}
+
+/**
+ * Remove result & sort 
+ */
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_result_count', 20 );
+
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_catalog_ordering', 30 );
